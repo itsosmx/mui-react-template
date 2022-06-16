@@ -8,7 +8,9 @@
   - [x] axios `v0.27`
 
 
-## Available Scripts
+## Start
+
+Simply run : `npm install` to install template packages
 
 In the project directory, you can run:
 
