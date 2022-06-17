@@ -2,6 +2,7 @@
 
 ### Packages Included: 
   - [x] @mui/material `v5`
+  - [ ] @mui/icons-material `v5`
   - [x] framer-motion `v6`
   - [x] react-router-dom `v6`
   - [x] styled-components `v5`
